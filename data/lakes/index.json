@@ -1,7 +1,6 @@
 {
   "lakes": [
     {"file": "baikal.json", "name": "Байкал"},
-    {"file": "ladoga.json", "name": "Ладожское озеро"},
-    {"file": "onega.json", "name": "Онежское озеро"}
+
   ]
 }
